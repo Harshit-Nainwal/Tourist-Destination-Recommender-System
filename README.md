@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="screenshots/demo.mp4">
+    <img src="screenshots/demo-thumbnail.png" width="700">
+  </a>
+</p>
+
 # Tourism Recommender System
 
 A full-stack travel recommendation web application built using **Flask** and **MongoDB**.  
@@ -30,10 +37,10 @@ Users receive destination suggestions based on selected interests such as beache
 - Session-based access control  
 - Separate storage for authentication and user profile data
 
-## 📸 Application Preview
 
 <p align="center">
-  <img src="screenshots/home.png" width="700">
+  <img src="screenshots/login.png" width="45%" />
+  <img src="screenshots/signup.png" width="45%" />
 </p>
 
 
@@ -45,21 +52,21 @@ Each destination includes:
 - Best time to visit  
 - Integrated Google Maps view  
 
-## 📸 Application Preview
 
 <p align="center">
-  <img src="screenshots/home.png" width="700">
+  <img src="screenshots/desc.png" width="45%" />
+  <img src="screenshots/detail1.png" width="45%" />
 </p>
+
 
 ### 4. Review & Rating System
 - Users can submit reviews  
 - Average ratings are dynamically calculated  
 - All reviews are displayed on the destination page  
 
-## 📸 Application Preview
 
 <p align="center">
-  <img src="screenshots/home.png" width="700">
+  <img src="screenshots/detail2.png" width="700">
 </p>
 
 ---
