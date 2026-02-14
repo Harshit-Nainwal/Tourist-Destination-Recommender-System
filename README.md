@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="screenshots/demo.mp4">
-    <img src="screenshots/demo-thumbnail.png" width="700">
+    <img src="screenshots/ss-demo.png" width="700">
   </a>
 </p>
 
